@@ -5,7 +5,7 @@
       <img width="63%" class="img-fluid header-image " src="../assets/Terracor/header.png" alt="">
     </div>
     <div class="stone-count">
-      <img width="40%" src="../assets/Terracor/stone-count.png" class="img-fluid" alt="">
+      <img width="35%" src="../assets/Terracor/stone-count.png" class="img-fluid" alt="">
     </div>
   </section>
   <section >
@@ -28,7 +28,7 @@
   <section class="main mb-5">
     <div class="row">
         <div class="col-lg-8 pl-3">
-           <img  src="../assets/Terracor/how-to-phone (copy).png" alt="">
+           <img width="80%" src="../assets/Terracor/how-to-phone (copy).png" alt="">
         </div>
         <div class="col-sm-4 content">
           <h1 class="text-blue">HOW TO</h1>
@@ -40,7 +40,7 @@
   <section class="mb-5">
     <div class="row">
         <div class="col-lg-8 pl-3">
-           <img  src="../assets/Terracor/how-to-sign-up.png" alt="">
+           <img width="80%" src="../assets/Terracor/how-to-sign-up.png" alt="">
         </div>
         <div class="col-sm-4 content">
           <h1 class="text-blue">HOW TO</h1>
@@ -53,7 +53,7 @@
   <section class="mb-5">
     <div class="row">
         <div class="col-lg-8 pl-3">
-           <img  src="../assets/Terracor/how-to-login (copy).png" alt="">
+           <img width="80%" src="../assets/Terracor/how-to-login (copy).png" alt="">
         </div>
         <div class="col-sm-4 content">
           <h1 class="text-blue">HOW TO</h1>
@@ -67,7 +67,7 @@
 <section class="mb-5">
     <div class="row">
         <div class="col-lg-8 pl-3">
-           <img  src="../assets/Terracor/download-app (copy).png" alt="">
+           <img width="80%" src="../assets/Terracor/download-app (copy).png" alt="">
         </div>
         <div class="col-sm-4 content">
        <img class="text-link-store" src="../assets/Terracor/apple-icon.png" alt=""> <a class="text-link-store" href="https://apps.apple.com/in/app/terracor-diamonds/id1539937063">https://apps.apple.com/in/app/terracor-diamonds/id1539937063</a> <br> <br>
@@ -90,16 +90,16 @@
 <section class="mb-5">
     <div class="grid-container">
       <div class="grid-item">
-        <img width="75%" src="../assets/Terracor/spread-gems-1.png"  alt="">
+        <img width="70%" src="../assets/Terracor/spread-gems-1.png"  alt="">
       </div>
       <div class="grid-item">
-        <img width="75%" src="../assets/Terracor/spread-gems-2.png"    alt="">
+        <img width="70%" src="../assets/Terracor/spread-gems-2.png"    alt="">
       </div>
       <div class="grid-item">
-        <img width="75%" src="../assets/Terracor/spread-gems-3.png"  alt="">
+        <img width="70%" src="../assets/Terracor/spread-gems-3.png"  alt="">
       </div>
       <div class="grid-item">
-        <img width="75%" src="../assets/Terracor/spread-gems-4.png"  alt="">
+        <img width="70%" src="../assets/Terracor/spread-gems-4.png"  alt="">
       </div>
     </div>
     <h1 class="text-blue-banner ml-5">HOW TO</h1>
@@ -109,7 +109,7 @@
 <section class="mb-5">
     <div class="row">
         <div class="col-lg-8 pl-3">
-           <img  src="../assets/Terracor/image-process.png" alt="">
+           <img width="80%" src="../assets/Terracor/image-process.png" alt="">
         </div>
         <div class="col-sm-4 content">
           <h1 class="text-blue">HOW TO</h1>
@@ -125,7 +125,7 @@
 <section class="mb-5">
     <div class="row">
         <div class="col-lg-8 pl-3">
-           <img  src="../assets/Terracor/output.png" alt="">
+           <img width="80%" src="../assets/Terracor/output.png" alt="">
         </div>
         <div class="col-sm-4 content">
           <h1 class="text-blue">HOW TO</h1>
@@ -138,8 +138,8 @@
     </div>
   </section>
   <hr class="hr-item">
-  <section class="mb-5 " >
-    <img  src="../assets/Terracor/last.png" alt="">
+  <section class=" pb-5" >
+    <img width="65%" src="../assets/Terracor/last.png" alt="">
   </section>
 
   </div>
@@ -249,6 +249,9 @@
 
 .mb-5{
   margin-bottom: 2rem;
+}
+.pb-5{
+  padding-bottom: 2rem;
 }
 </style>
 
